@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm João Vitor 👋
 
-<!--
-**jvitorcarvalho/jvitorcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer (Full Stack)** based in Brazil, working remotely (UTC-3).
+I build payment integrations, legacy-to-web migrations, and the tracking that connects marketing to revenue.
 
-Here are some ideas to get you started:
+- 💳 **Payments & integrations:** Mercado Pago API (Pix, cards, signature-validated webhooks, payer portal) in 3 production systems. Mercado Pago Platinum Partner.
+- 🗄️ **Legacy migration:** MS Access (558 MB, 134 tables) to a web ERP with Next.js, Prisma, MariaDB and a Python ETL.
+- 💱 **Fintech:** currency exchange platform with FastAPI, PostgreSQL and 4 payment gateways.
+- 📈 **MarTech:** server-side Meta Conversions API, Consent Mode v2, GA4.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** PHP 8 · WordPress / WooCommerce · Laravel · TypeScript · Next.js · Node.js · Python / FastAPI · PostgreSQL · MySQL / MariaDB · SQL Server · Redis · Docker · GitHub Actions · n8n
+
+Most of my client work lives in private repositories. Public projects:
+
+- [aves-do-brasil-alexa](https://github.com/jvitorcarvalho/aves-do-brasil-alexa): Alexa skill with a Bayesian inference engine for 1,627 Brazilian bird species.
+
+📫 [LinkedIn](https://www.linkedin.com/in/jvitorcarvalho/) · jv@evolutivanegociosdigitais.com.br
